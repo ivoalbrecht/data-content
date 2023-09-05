@@ -1,0 +1,1 @@
+[How to do great work](http://paulgraham.com/greatwork.html)
