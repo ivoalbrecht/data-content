@@ -1,0 +1,1 @@
+[A Data Modeling Library for 2022](https://modelyourreality.substack.com/p/a-data-modeling-library-for-2022)
