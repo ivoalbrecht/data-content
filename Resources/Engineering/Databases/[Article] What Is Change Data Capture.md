@@ -1,0 +1,1 @@
+[https://seattledataguy.substack.com/p/what-is-change-data-capture](https://seattledataguy.substack.com/p/what-is-change-data-capture)
