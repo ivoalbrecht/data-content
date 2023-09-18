@@ -1,0 +1,1 @@
+[Awesome Data Leadership](https://github.com/ronikobrosly/awesome-data-leadership)
