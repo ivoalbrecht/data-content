@@ -1,0 +1,1 @@
+[The fundamentals of data warehouse architecture](https://www.thoughtspot.com/data-trends/data-science/data-warehouse-architecture)
