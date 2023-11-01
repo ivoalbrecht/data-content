@@ -1,0 +1,1 @@
+[Modular Dimensional Data Modeling](https://ergestx.substack.com/p/modular-dimensional-data-modeling)

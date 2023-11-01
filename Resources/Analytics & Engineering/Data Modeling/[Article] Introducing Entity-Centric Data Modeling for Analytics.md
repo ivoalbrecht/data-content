@@ -1,0 +1,1 @@
+[Introducing Entity-Centric Data Modeling for Analytics](https://preset.io/blog/introducing-entity-centric-data-modeling-for-analytics/)
