@@ -1,0 +1,1 @@
+[Manage Your Capacity, Not Your Time](https://theengineeringmanager.substack.com/p/manage-your-capacity-not-your-time)
