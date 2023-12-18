@@ -1,0 +1,1 @@
+[Data Engineering Design Patterns](https://www.dedp.online/)

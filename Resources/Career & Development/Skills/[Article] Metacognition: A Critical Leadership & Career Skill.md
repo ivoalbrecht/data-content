@@ -1,0 +1,1 @@
+[Metacognition: A Critical Leadership & Career Skill](https://thelsweekly.substack.com/p/metacognition-leadership-career/)

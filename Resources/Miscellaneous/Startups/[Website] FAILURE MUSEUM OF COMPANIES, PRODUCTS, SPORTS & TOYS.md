@@ -1,0 +1,1 @@
+[FAILURE MUSEUM OF COMPANIES, PRODUCTS, SPORTS & TOYS](https://failure.museum/)
