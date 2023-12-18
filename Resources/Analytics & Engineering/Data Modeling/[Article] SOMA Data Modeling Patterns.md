@@ -1,0 +1,1 @@
+[SOMA Data Modeling Patterns](https://ergestx.substack.com/p/soma-data-modeling-patterns)
