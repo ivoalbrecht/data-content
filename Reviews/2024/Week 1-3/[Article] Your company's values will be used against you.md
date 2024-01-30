@@ -1,0 +1,3 @@
+[Your company's values will be used against you](https://benn.substack.com/p/your-companys-values-will-be-used)
+
+The end of this article reflects well how I think about company values. They only make sense if there are **de**scriptive (Benn names that based on precedents / case studies) and only then they could be used **pre**scriptively in trade off situations. We tried doing this at Gemma Analytics. On top of that, we used employee surveys to check if our values were still relevant. 
