@@ -1,0 +1,1 @@
+[Eventify everything - Data modeling for event data](https://substack.timodechau.com/p/eventify-everything-data-modeling)
