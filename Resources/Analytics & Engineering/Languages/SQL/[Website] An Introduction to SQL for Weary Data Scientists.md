@@ -1,0 +1,1 @@
+[An Introduction to SQL for Weary Data Scientists](https://gvwilson.github.io/sql-tutorial/)
