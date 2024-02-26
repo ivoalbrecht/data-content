@@ -1,0 +1,3 @@
+[You Inherited a Failed Data Project. What Do You Do?](https://joereis.substack.com/p/you-inherited-a-failed-data-project)
+
+We've all been there...

@@ -1,0 +1,1 @@
+[Data ownership: A practical guide](https://medium.com/@mikldd/data-ownership-a-practical-guide-ae306d49866f)
