@@ -1,0 +1,1 @@
+[I spent another 6 hours understanding the design principles of Snowflake. Here’s what I found](https://blog.det.life/i-spent-another-6-hours-understanding-the-design-principles-of-snowflake-heres-what-i-found-dea9fd74ae96)
