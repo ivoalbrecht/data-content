@@ -1,0 +1,1 @@
+[SaaS Analytics Playbook](https://mcusercontent.com/33102e16ca6efe9399823b782/files/0066ca57-e205-c058-6b6c-688af1dc12c6/SaaS_Analytics_Playbook_v2.0_.pdf)

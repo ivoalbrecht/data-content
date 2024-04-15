@@ -1,0 +1,1 @@
+[What Does a Statistical Method Assume?](https://www.fharrell.com/post/assume/)
