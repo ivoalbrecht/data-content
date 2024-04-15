@@ -1,0 +1,1 @@
+[Semantic Layer: Research Doc](https://docs.google.com/document/d/1WwdgKMF9UdfTXHGSZgruYxZUK7z6XQ7cKFxpHK8oOuo/edit#heading=h.9v5yfiegf5do)

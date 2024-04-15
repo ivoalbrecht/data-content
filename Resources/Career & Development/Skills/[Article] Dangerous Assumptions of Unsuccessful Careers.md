@@ -1,0 +1,1 @@
+[Dangerous Assumptions of Unsuccessful Careers](https://thelsweekly.substack.com/p/dangerous-assumptions-unsuccessful-careers)
