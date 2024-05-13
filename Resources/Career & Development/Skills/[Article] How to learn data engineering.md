@@ -1,0 +1,1 @@
+[How to learn data engineering](https://www.blef.fr/learn-data-engineering/)
