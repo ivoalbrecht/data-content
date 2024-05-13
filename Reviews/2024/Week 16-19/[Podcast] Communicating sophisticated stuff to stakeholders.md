@@ -1,0 +1,3 @@
+[Communicating sophisticated stuff to stakeholders](https://blog.stackblitz.com/posts/flow-state/)
+
+This podcast is an extension of [an article I posted earlier](https://github.com/ivoalbrecht/data-content/blob/c5ed53616522185c9d851a7edfb123dd0f7d1a7c/Resources/Career%20%26%20Development/Skills/%5BArticle%5D%20Becoming%20Data%20Driven%2C%20From%20First%20Principles.md?plain=1#L2). I am still bullish on implementing XmR charts to standardise CXO reporting, especially for companies that are past hyper-growth phase.
