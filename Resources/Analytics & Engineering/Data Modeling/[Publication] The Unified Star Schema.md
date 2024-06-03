@@ -1,0 +1,1 @@
+[The Unified Star Schema](https://cdn.ttgtmedia.com/rms/pdf/The-Unified-Star-Schema.pdf)
