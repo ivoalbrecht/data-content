@@ -1,0 +1,1 @@
+[A Course in Exploratory Data Analysis](https://bayesball.github.io/EDA/)
