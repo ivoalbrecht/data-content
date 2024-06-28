@@ -1,0 +1,1 @@
+[How I give the right amount of context (in any situation)](https://newsletter.weskao.com/p/how-i-give-the-right-amount-of-context)
