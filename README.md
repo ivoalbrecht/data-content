@@ -6,3 +6,4 @@ The repository is split into the following folders:
 
 - **Resources:** Informative content - ordered by topic
 - **Reviews:** Opinionated content - ordered by the time of consuming the content
+- **Source:** The sources every data professional should consume from
