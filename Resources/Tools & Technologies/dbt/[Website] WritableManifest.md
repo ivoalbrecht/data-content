@@ -1,0 +1,1 @@
+[WritableManifest](https://schemas.getdbt.com/dbt/manifest/v12/index.html)

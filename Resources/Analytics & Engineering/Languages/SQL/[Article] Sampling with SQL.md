@@ -1,0 +1,1 @@
+[Sampling with SQL](https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html)

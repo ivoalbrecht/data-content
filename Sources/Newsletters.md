@@ -6,3 +6,7 @@ Substack:
  - https://joereis.substack.com/
  - https://substack.timodechau.com/
  - https://mikkeldengsoe.substack.com/
+
+ Other newsletters:
+
+ - https://www.blef.fr/tag/datanews/
