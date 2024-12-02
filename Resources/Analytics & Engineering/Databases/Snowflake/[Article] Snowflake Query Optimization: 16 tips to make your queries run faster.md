@@ -1,0 +1,1 @@
+[Snowflake Query Optimization: 16 tips to make your queries run faster](https://select.dev/posts/snowflake-query-optimization)
