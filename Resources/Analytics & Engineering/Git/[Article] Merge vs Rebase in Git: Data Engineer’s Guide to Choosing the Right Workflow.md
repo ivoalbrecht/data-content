@@ -1,0 +1,1 @@
+[Merge vs Rebase in Git: Data Engineer’s Guide to Choosing the Right Workflow](https://datagibberish.com/p/git-merge-vs-git-rebase)
