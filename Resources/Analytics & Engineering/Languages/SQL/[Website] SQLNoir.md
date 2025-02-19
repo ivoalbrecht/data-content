@@ -1,0 +1,1 @@
+[SQL Noir: Solve Mysteries Through SQL](https://www.sqlnoir.com/)
