@@ -1,0 +1,1 @@
+[Introducing the dbt MCP Server - Bringing Structured Data to AI Workflows and Agents](https://docs.getdbt.com/blog/introducing-dbt-mcp-server)

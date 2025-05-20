@@ -1,0 +1,1 @@
+[Xmrit Launches Trend and Seasonality Features](https://xmrit.com/articles/seasonality-and-trend-launch/)

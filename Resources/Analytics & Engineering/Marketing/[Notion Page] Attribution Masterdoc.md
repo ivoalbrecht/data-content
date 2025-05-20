@@ -1,0 +1,1 @@
+[Attribution Masterdoc](https://galiza.notion.site/Attribution-Masterdoc-17b982ee7853800ead98e2b7d1970af9)

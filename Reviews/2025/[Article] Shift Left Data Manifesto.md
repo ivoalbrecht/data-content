@@ -1,0 +1,1 @@
+[Shift Left Data Manifesto](https://www.gable.ai/blog/shift-left-data-manifesto)
