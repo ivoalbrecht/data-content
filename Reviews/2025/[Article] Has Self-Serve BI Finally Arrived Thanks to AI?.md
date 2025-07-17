@@ -1,0 +1,1 @@
+[Has Self-Serve BI Finally Arrived Thanks to AI?](https://www.rilldata.com/blog/has-self-serve-bi-finally-arrived-thanks-to-ai)

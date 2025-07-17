@@ -1,0 +1,1 @@
+[Building AI Agents for Data Engineering](https://www.synq.io/blog/ai-agents-in-data-engineering)
