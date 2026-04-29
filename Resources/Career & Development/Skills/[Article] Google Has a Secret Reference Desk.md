@@ -1,0 +1,1 @@
+[Google Has a Secret Reference Desk. Here's How to Use It.](https://cardcatalogforlife.substack.com/p/google-has-a-secret-reference-desk)
