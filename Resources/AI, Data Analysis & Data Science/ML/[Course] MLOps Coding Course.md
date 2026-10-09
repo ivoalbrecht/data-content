@@ -1,1 +1,0 @@
-[MLOps Coding Course](https://mlops-coding-course.fmind.dev/index.html)

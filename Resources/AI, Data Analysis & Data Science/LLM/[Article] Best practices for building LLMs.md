@@ -1,1 +1,0 @@
-[Best practices for building LLMs](https://stackoverflow.blog/2024/02/07/best-practices-for-building-llms/)
