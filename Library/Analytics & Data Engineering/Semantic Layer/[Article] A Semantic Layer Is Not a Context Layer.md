@@ -1,0 +1,1 @@
+[A Semantic Layer Is Not a Context Layer](https://open.substack.com/pub/datacreation/p/a-semantic-layer-is-not-a-context)

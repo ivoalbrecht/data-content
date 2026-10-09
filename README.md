@@ -5,7 +5,7 @@
 The data reading that I want to keep.<br>
 Articles, books, courses and tools that I collected since 2023.
 
-![Library](https://img.shields.io/badge/library-150-2ea44f) ![Reviews](https://img.shields.io/badge/reviews-67-0969da) ![Last commit](https://img.shields.io/github/last-commit/ivoalbrecht/data-content?label=last%20added)
+![Library](https://img.shields.io/badge/library-159-2ea44f) ![Reviews](https://img.shields.io/badge/reviews-67-0969da) ![Last commit](https://img.shields.io/github/last-commit/ivoalbrecht/data-content?label=last%20added)
 
 </div>
 
