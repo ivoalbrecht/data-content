@@ -1,1 +1,0 @@
-[Statistical Inference via Data Science: A ModernDive into R and the Tidyvers](https://moderndive.com/)

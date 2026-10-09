@@ -1,1 +1,0 @@
-[Interactive Tools for machine learning, deep learning, and math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)

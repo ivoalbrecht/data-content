@@ -1,1 +1,0 @@
-[Classical time-series forecasting methods in Python and R for beginners](https://medium.com/codex/classical-time-series-forecasting-methods-in-python-and-r-for-beginners-df0731b3199f)

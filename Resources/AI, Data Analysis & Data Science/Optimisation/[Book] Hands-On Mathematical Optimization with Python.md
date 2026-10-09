@@ -1,1 +1,0 @@
-[Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book)
